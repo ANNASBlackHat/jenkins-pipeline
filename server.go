@@ -10,7 +10,7 @@ func main() {
 	router := routing.New()
 
 	router.Get("/", func(c *routing.Context) error {
-		fmt.Fprintf(c, "Hello, world!")
+		fmt.Fprintf(c, "Hello, world! - v2")
 		return nil
 	})
 
