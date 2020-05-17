@@ -1,0 +1,22 @@
+{
+  "name": "jenkins-pipeline",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ANNASBlackHat/jenkins-pipeline.git"
+  },
+  "author": "AnnasBlackHat",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ANNASBlackHat/jenkins-pipeline/issues"
+  },
+  "homepage": "https://github.com/ANNASBlackHat/jenkins-pipeline#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
